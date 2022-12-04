@@ -1,7 +1,10 @@
 *{
     margin: 5px;
-    
-    
+  
+}
+
+#base{
+  
 }
 .container{
 display: grid;
