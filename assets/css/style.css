@@ -2,8 +2,24 @@
     margin: 5px;
   
 }
+.navbar{
+  margin: 5px 20px ;
+  border-radius: 20px;
+}
+.navbar-brand{
+font-family:fantasy;
+color: aliceblue;
 
+
+}
+.carousel-item{
+  border-radius: 20px;
+}
+.d-block {
+  border-radius: 20px;
+}
 .container{
+  border-radius: 20px;
   margin-left: 20px;
 display: grid;
 grid-template-columns: repeat(8,1fr);
