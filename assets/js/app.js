@@ -1,4 +1,4 @@
-anime.timeline({loop: true})
+/* anime.timeline({loop: true})
   .add({
     targets: '.ml5 .line',
     opacity: [0.5,1],
@@ -37,4 +37,4 @@ anime.timeline({loop: true})
     duration: 1000,
     easing: "easeOutExpo",
     delay: 1000
-  });
+  }); */
