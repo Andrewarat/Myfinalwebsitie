@@ -15,6 +15,11 @@ padding-left: 5rem;
 
 
 }
+.conteiner{
+  margin-left: 100px;
+  border: 20px;
+  box-sizing: border-box;
+}
 .carousel-item{
   border-radius: 20px;
 }
