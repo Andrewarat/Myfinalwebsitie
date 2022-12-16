@@ -36,6 +36,15 @@ display: grid;
 grid-template-columns: repeat(8,1fr);
     grid-template-rows: repeat(8,auto);
 }
+.container1{
+  margin: 30px;
+}
+.col-9 h2{
+  text-align: center;
+}
+
+
+
 .ml5 {
     position: relative;
     font-weight: 300;
